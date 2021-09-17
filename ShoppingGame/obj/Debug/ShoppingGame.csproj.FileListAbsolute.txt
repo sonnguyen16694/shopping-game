@@ -1,0 +1,7 @@
+E:\Work\POC\ShoppingGame\ShoppingGame\bin\Debug\ShoppingGame.exe.config
+E:\Work\POC\ShoppingGame\ShoppingGame\bin\Debug\ShoppingGame.exe
+E:\Work\POC\ShoppingGame\ShoppingGame\bin\Debug\ShoppingGame.pdb
+E:\Work\POC\ShoppingGame\ShoppingGame\obj\Debug\ShoppingGame.csproj.AssemblyReference.cache
+E:\Work\POC\ShoppingGame\ShoppingGame\obj\Debug\ShoppingGame.csproj.CoreCompileInputs.cache
+E:\Work\POC\ShoppingGame\ShoppingGame\obj\Debug\ShoppingGame.exe
+E:\Work\POC\ShoppingGame\ShoppingGame\obj\Debug\ShoppingGame.pdb
